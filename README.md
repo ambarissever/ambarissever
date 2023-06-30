@@ -6,6 +6,7 @@ I deal mostly with cryptography.
 | C/C++     |                     |                       |              |                       |                      |
 | C#        |                     |                       |              |                       |                      |
 | Python    |                     |                       |              |                       |                      |
+| PHP       |                     |                       |              |                       |                      |
 
 ## Some of my blog posts
 As you can see, there's nothing here right now.
