@@ -12,6 +12,9 @@ I deal mostly with cryptography.
 | The project name | The number of projects |
 | -----------------| ---------------------- |
 |                  |                        | 
+|                  |                        | 
+|                  |                        | 
+|                  |                        | 
 
 ## Some of my blog posts
 As you can see, there's nothing here right now.
