@@ -11,10 +11,10 @@ I deal mostly with cryptography.
 
 | Category | The project name | Numbers in categories and project counts |
 | ---------| -----------------| ---------------------- |
-|          |                  |          0/0              | 
 |          |                  |          0 / 0              | 
-|          |                  |                        | 
-|          |                  |                        | 
+|          |                  |          0 / 0              | 
+|          |                  |          0 / 0              | 
+|          |                  |          0 / 0              | 
 
 ## Some of my blog posts
 As you can see, there's nothing here right now.
