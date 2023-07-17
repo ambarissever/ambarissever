@@ -25,5 +25,14 @@ I deal mostly with cryptography.
 |             |          |          0             |
 |             |          |          0             |
 
+## Artificial Intelligence
+
+
+## Geographic Information System (GIS)
+
+
+## Cryptography
+
+
 ## Some of my blog posts
 As you can see, there's nothing here right now.
