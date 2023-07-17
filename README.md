@@ -30,9 +30,12 @@ I deal mostly with cryptography.
 | ---------| ---------|
 
 ## Geographic Information System (GIS)
-
+| Project  |
+| ---------|
 
 ## Cryptography
+| Project  |
+| ---------|
 
 
 ### Some of my blog posts
