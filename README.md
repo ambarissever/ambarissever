@@ -34,5 +34,5 @@ I deal mostly with cryptography.
 ## Cryptography
 
 
-## Some of my blog posts
+### Some of my blog posts
 As you can see, there's nothing here right now.
