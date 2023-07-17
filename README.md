@@ -1,7 +1,7 @@
 ### Hi there ı'm Atakan
 I deal mostly with cryptography.
 
-### General
+## General
 
 | Languages | Technologies        | Libraries             | Tools        | Platforms             | The number of project | Projects  ⭐        | Doc     | Category |
 | --------  | ------------------- | --------------------- |------------- |-----------------------|----------------------|----------------------|----------|----------|
