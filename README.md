@@ -28,7 +28,6 @@ I deal mostly with cryptography.
 ## Artificial Intelligence
 | Concepts | Project  |
 | ---------| ---------|
-|          |          |
 
 ## Geographic Information System (GIS)
 
